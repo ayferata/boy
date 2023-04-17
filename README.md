@@ -18,4 +18,5 @@ public class dayy {
         System.out.print("Vücut Kitle İndeksiniz= "+indeks);
 
     }
+    
 }
