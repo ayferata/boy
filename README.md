@@ -3,7 +3,7 @@ package day01;
 
 import java.util.Scanner;
 
-public class day {
+public class dayy {
     public static void main(String[] args) {
         Scanner scan = new Scanner(System.in);
 
