@@ -17,6 +17,5 @@ public class dayy {
         double indeks = kilo / (boy*boy);
         System.out.print("Vücut Kitle İndeksiniz= "+indeks);
 
-
     }
 }
