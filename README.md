@@ -1,5 +1,5 @@
 # boy
-package day01;
+package day;
 
 import java.util.Scanner;
 
